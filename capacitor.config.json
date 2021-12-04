@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-6-input-modal-bug",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

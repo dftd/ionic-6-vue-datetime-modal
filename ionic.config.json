@@ -1,0 +1,7 @@
+{
+  "name": "ionic-6-input-modal-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
